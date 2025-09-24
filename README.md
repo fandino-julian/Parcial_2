@@ -16,4 +16,7 @@ Este repositorio contiene el desarrollo del **Parcial 2** de la asignatura Apren
    ```bash
    git clone <URL-del-repo>
    cd <nombre-del-repo>
-   
+
+## Descripción del Proyecto
+
+Este proyecto analiza el dataset Adult Census Income, que consta de datos porvenientes de un censo realizado en Estados Unidos en 1994 sobre distintas características socioeconómicas y demográficas de las personas. A partir de esto, se desarrolla una red neuronal con el objetivo de poder predecir si una persona gana más de $50,000 anuales.
